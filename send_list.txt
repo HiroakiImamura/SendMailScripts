@@ -1,2 +1,3 @@
 #送信したいメールアドレスを記入してください
 delisit@example.com
+git commit -- amend練習
