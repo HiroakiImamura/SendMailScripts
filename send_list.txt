@@ -1,0 +1,2 @@
+#送信したいメールアドレスを記入してください
+delisit@example.com
